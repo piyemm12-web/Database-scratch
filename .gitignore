@@ -1,0 +1,9 @@
+# Data files
+data/
+*.log
+*.sst
+*.db
+
+# Binaries and executables
+*.exe
+*.test
